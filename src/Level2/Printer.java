@@ -1,6 +1,6 @@
 //https://programmers.co.kr/learn/courses/30/lessons/42587
 
-package Kakao_2019;
+package Level2;
 
 import java.util.ArrayList;
 import java.util.Collections;
